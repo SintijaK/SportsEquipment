@@ -1,1 +1,3 @@
 original location : C:\xampp\mysql\data
+
+copy and paste it there
