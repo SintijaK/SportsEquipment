@@ -1,9 +1,9 @@
 Sports_Equipment contains the project
 SQL Database files contain the database created on SQL server management studio (emailed from Anton)
-i put xampp here because of the configurations I have made so possibly might be needed?
+i put instructions for database table in xampp folder
 
 
-for myphpadmin the username is sportsadmin, pass: adminpwd
+for myphpadmin the username is sportsadmin, pass: adminpwd (youll have to create it on myphpadmin and give it all privileges)
 
 
 if migrate does not work try using
